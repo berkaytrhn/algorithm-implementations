@@ -1,5 +1,5 @@
-from data_structures.non_linear.graph import Graph, NonLinearNode
-from algorithms.sorting_algorithms.bfs import BFS
+from data_structures.non_linear.graph import Graph
+from algorithms.search.bfs import BFS
 from typing import Any
 
 graph = Graph(False)

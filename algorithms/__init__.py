@@ -1,1 +1,2 @@
-from .sorting_algorithms import *
+from .sorting import *
+from .search import *
